@@ -9,9 +9,10 @@
 	🚧  React Select 🚀 Em construção...  🚧
 </h4>
 
-Tecnologias Utilizadas
-HTML
-CSS
+
+## Tecnologias Utilizadas
+- HTML
+- CSS
 
 
 Visão Geral do Projeto

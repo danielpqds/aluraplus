@@ -1,7 +1,8 @@
 <h1 align="center">ALURA PLUS</h1>
 
 ## Descrição do Projeto
-Este é um projeto pessoal desenvolvido como parte do meu portfólio, chamado Alura Plus. O Alura Plus é uma página web simples construída com HTML e CSS, projetada para demonstrar minhas habilidades de front-end e design web.
+<p align="center">Este é um projeto pessoal desenvolvido como parte do meu portfólio, chamado Alura Plus. O Alura Plus é uma página web simples construída com HTML e CSS, projetada para demonstrar minhas habilidades de front-end e design web.</p>
+
 
 Tecnologias Utilizadas
 HTML

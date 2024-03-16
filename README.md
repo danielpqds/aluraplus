@@ -1,7 +1,7 @@
 <h1 align="center">ALURA PLUS</h1>
 
 ## Descrição do Projeto
-<p align="center">Este é um projeto pessoal desenvolvido como parte do meu portfólio, chamado Alura Plus. O Alura Plus é uma página web simples construída com HTML e CSS, projetada para demonstrar minhas habilidades de front-end e design web.</p>
+<p>Este é um projeto pessoal desenvolvido como parte do meu portfólio, chamado Alura Plus. O Alura Plus é uma página web simples construída com HTML e CSS, projetada para demonstrar minhas habilidades de front-end e design web.</p>
 
 <image align="center">[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)</image>
 
@@ -14,6 +14,7 @@
 - HTML
 - CSS
 
+## Como Utilizar
 bash
 Copy code
 git clone (https://danielpqds.github.io/aluraplus/)

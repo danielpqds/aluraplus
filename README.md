@@ -1,6 +1,6 @@
 # ALURA PLUS
 
-Alura Plus
+## Descrição do Projeto
 Este é um projeto pessoal desenvolvido como parte do meu portfólio, chamado Alura Plus. O Alura Plus é uma página web simples construída com HTML e CSS, projetada para demonstrar minhas habilidades de front-end e design web.
 
 Tecnologias Utilizadas

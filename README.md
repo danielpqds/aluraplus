@@ -3,6 +3,7 @@
 ## Descrição do Projeto
 <p align="center">Este é um projeto pessoal desenvolvido como parte do meu portfólio, chamado Alura Plus. O Alura Plus é uma página web simples construída com HTML e CSS, projetada para demonstrar minhas habilidades de front-end e design web.</p>
 
+<img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/>
 
 Tecnologias Utilizadas
 HTML

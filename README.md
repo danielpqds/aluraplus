@@ -20,7 +20,7 @@ Copy code
 git clone (https://danielpqds.github.io/aluraplus/)
 Em seguida, navegue até o diretório do projeto e abra o arquivo index.html em seu navegador preferido.
 
-Contribuições
+## Contribuições
 Contribuições são bem-vindas! Se você identificar bugs, problemas de usabilidade ou desejar adicionar novos recursos, sinta-se à vontade para enviar uma solicitação de pull request.
 
 Autor

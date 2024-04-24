@@ -11,8 +11,8 @@
 
 
 ## Tecnologias Utilizadas
-- HTML
-- CSS
+- HTML5
+- CSS3
 
 ## Como Utilizar
 Para acessar o modelo click no link a seguir: [ALURA PLUS](https://aluraplus-sandy-three.vercel.app/)
@@ -21,7 +21,7 @@ Para acessar o modelo click no link a seguir: [ALURA PLUS](https://aluraplus-san
 Contribuições são bem-vindas! Se você identificar bugs, problemas de usabilidade ou desejar adicionar novos recursos, sinta-se à vontade para enviar uma solicitação de pull request.
 
 ## Autor
-Este projeto foi desenvolvido por Álvaro Daniel.
+Este projeto foi desenvolvido por Álvaro Daniel, em parceria com Alura.
 
 Sinta-se à vontade para entrar em contato comigo se tiver alguma dúvida ou sugestão. Obrigado por conferir o projeto Alura Plus! 🚀
 

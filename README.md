@@ -15,18 +15,18 @@
 - CSS
 
 ## Como Utilizar
-bash
-Copy code
-git clone (https://danielpqds.github.io/aluraplus/)
-Em seguida, navegue até o diretório do projeto e abra o arquivo index.html em seu navegador preferido.
+Para acessar o modelo click no link a seguir: [ALURA PLUS]https://aluraplus-sandy-three.vercel.app/
 
 ## Contribuições
 Contribuições são bem-vindas! Se você identificar bugs, problemas de usabilidade ou desejar adicionar novos recursos, sinta-se à vontade para enviar uma solicitação de pull request.
 
-Autor
+## Autor
 Este projeto foi desenvolvido por Álvaro Daniel.
 
 Sinta-se à vontade para entrar em contato comigo se tiver alguma dúvida ou sugestão. Obrigado por conferir o projeto Alura Plus! 🚀
+
+## Contato
+[LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-daniel-5a76562a9/)
 
 
 

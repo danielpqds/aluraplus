@@ -15,7 +15,7 @@
 - CSS
 
 ## Como Utilizar
-Para acessar o modelo click no link a seguir: [ALURA PLUS]https://aluraplus-sandy-three.vercel.app/
+Para acessar o modelo click no link a seguir: [ALURA PLUS](https://aluraplus-sandy-three.vercel.app/)
 
 ## Contribuições
 Contribuições são bem-vindas! Se você identificar bugs, problemas de usabilidade ou desejar adicionar novos recursos, sinta-se à vontade para enviar uma solicitação de pull request.

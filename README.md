@@ -24,9 +24,9 @@ Contribuições são bem-vindas! Se você identificar bugs, problemas de usabili
 Este projeto foi desenvolvido por Álvaro Daniel, em parceria com Alura.
 
 
-
 ## Contato
 Sinta-se à vontade para entrar em contato comigo se tiver alguma dúvida ou sugestão. Obrigado por conferir o projeto Alura Plus! 🚀
+
 [LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-daniel-5a76562a9/)
 
 
